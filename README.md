@@ -1,2 +1,2 @@
-# rodriguezValeria2026B
+# RodriguezValeria2026B
 Repositorio para la UA de SO26B de evidencias del periodo.
